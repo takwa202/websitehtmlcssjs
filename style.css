@@ -452,3 +452,11 @@ font-weight: lighter;
     width: 100%;
   }
 } 
+
+.flow{
+  opacity: 0;
+  transition: all 2s ;
+}
+.show{
+  opacity: 1;
+}

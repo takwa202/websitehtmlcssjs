@@ -68,3 +68,9 @@ const observer = new IntersectionObserver((entries)=> {
 
 const hiddenElements =document.querySelectorAll('.flow');
 hiddenElements.forEach((el)=>observer.observe(el));
+const ff1=0;
+const ff12=0;
+
+const ff123=0;
+const ff1234=5;
+console.log('hy')

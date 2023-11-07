@@ -53,7 +53,7 @@ s9.addEventListener('mouseenter', () => {
 
   });
   
-///////////////  flow image  ////////////////////
+///////////////  flow image  /////////////////////
 const observer = new IntersectionObserver((entries)=> {
   entries.forEach((entry)=>{
     console.log(entry);
